@@ -8,4 +8,4 @@ To replicate:
 2. Open [rlzoo_compare.ipynb](rlzoo_compare.ipynb) and follow the notebook.
 
 
-Read my medium article about PPO and the evaluation process [here]().
+Read my medium article about PPO and the evaluation process [here](https://medium.com/@aveekgoswami/proximal-policy-optimisation¹-chatgpts-secret-is-in-the-sauce-af85254cdda2).
